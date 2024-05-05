@@ -1,0 +1,6 @@
+BikeID	Bike
+1	Gazelle
+2	Batavus
+3	Veloretti
+4	VanMoof
+5	Urban Arrow
